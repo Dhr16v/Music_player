@@ -1,0 +1,27 @@
+.b-r{
+    border-radius: 20px;
+    border: 3px solid rgb(18, 93, 140);
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.space-even{
+    justify-content: space-evenly;
+}
+
+.center{
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+}
